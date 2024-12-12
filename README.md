@@ -8,10 +8,8 @@
       width="600"
       height="300"
     />
-  </a>
-<div style="display: felx; justify-content: center; aligh-item: center; gap: 1rem;">
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=arirang0303)](https://solved.ac/arirang0303/)
-</div>
+</a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=arirang0303)](https://solved.ac/arirang0303/)
+
   
 
