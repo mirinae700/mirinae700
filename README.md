@@ -7,5 +7,6 @@
   src="https://render.gitanimals.org/farms/mirinae700"
   width="600"
   height="300"
+  style="text-align: center;"
 />
 </a>
