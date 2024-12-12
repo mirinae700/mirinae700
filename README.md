@@ -6,8 +6,8 @@
     <a href="https://github.com/devxb/gitanimals" style="text-align: center;">
         <img
           src="https://render.gitanimals.org/farms/mirinae700"
-          width="300"
-          height="100"
+          width="100%"
+          height="300px"
         />
     </a>
     
