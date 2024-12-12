@@ -4,7 +4,9 @@
 
 <div align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=arirang0303)](https://solved.ac/arirang0303/)
+</div>
 
+<div align="center">
 <a href="https://github.com/devxb/gitanimals" style="text-align: center;">
     <img
       src="https://render.gitanimals.org/farms/mirinae700"
