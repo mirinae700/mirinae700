@@ -1,4 +1,4 @@
-<div style="display:flex; flex-direction:row; justify-content: space-between;">
+<div style="display:flex; flex-direction:row;">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=ACF7CE&width=435&lines=Hello%2C+I'm+Yujin!)](https://git.io/typing-svg)
 
