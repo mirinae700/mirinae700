@@ -16,7 +16,10 @@
 </a>
 </div>
 
+---
+
 <div align="center">
+  
 ### 🌟 Skills 🌟
   
 #### FRONT
