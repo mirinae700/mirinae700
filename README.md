@@ -6,18 +6,6 @@
 
 </div>
 
-<div align="center">
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/mirinae700?pet-id=644495375962487192"
-    width="600"
-    height="120"
-  />
-</a>
-</div>
-
-#
-
 <div>
   
 ### ⭐️ Skills 
@@ -50,4 +38,16 @@
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </div>
+</div>
+
+#
+
+<div align="center">
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/mirinae700"
+  width="600"
+  height="300"
+/>
+</a>
 </div>
