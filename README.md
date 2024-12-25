@@ -16,11 +16,11 @@
 </a>
 </div>
 
----
+#
 
-<div align="center">
+<div>
   
-### 🌟 Skills 🌟
+### ⭐️ Skills 
   
 #### FRONT
 <div style="display:flex;">
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </div>
   
-### 🌟 Once I've used 🌟
+### ⭐️ Once I've used
 <div style="display:flex;">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
